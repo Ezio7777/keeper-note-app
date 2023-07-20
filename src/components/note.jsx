@@ -1,4 +1,5 @@
 import React from "react";
+import "../components_styles/note.css";
 
 function note() {
   return (
